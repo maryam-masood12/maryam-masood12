@@ -1,109 +1,92 @@
-# Hi 👋 I'm Maryam Masood
+<h1 align="center">Hi 👋, I'm Maryam Masood</h1>
 
-### Flutter Mobile App Developer | Dart Programmer | UI Enthusiast
+<h3 align="center">Flutter Mobile App Developer | Dart Programmer</h3>
 
-I'm a Flutter Developer passionate about building modern, responsive, and user-friendly mobile applications. I enjoy transforming ideas into beautiful mobile experiences with clean code and intuitive UI.
+<p align="center">
+  <a href="https://github.com/maryam-masood12">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Mobile+App+Developer;Building+Beautiful+Mobile+Apps;Learning+Flutter+Animations;Always+Learning+Something+New" />
+  </a>
+</p>
 
-Currently, I'm expanding my skills in Flutter animations, Firebase integration, REST APIs, and scalable application architecture while continuously improving my problem-solving abilities.
-
----
-
-## 💫 About Me
-
-* 📱 Flutter Mobile App Developer
-* 💙 Passionate about Flutter & Dart
-* 🎨 Love creating clean and modern UI
-* 🔥 Building real-world mobile applications
-* 🚀 Always learning new technologies
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maryam-masood12&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ---
 
-## 🎯 Interests
+## 👩‍💻 About Me
 
-* Cross-Platform Mobile Development
-* Responsive UI/UX Design
-* Flutter Animations
-* Firebase Integration
-* REST API Development
-* Clean Code & App Architecture
+I'm a Flutter developer who enjoys building clean, responsive, and user-friendly mobile applications.
 
----
+I love learning by building real projects, exploring new Flutter features, and improving my UI development skills.
 
-## 🧠 Currently Learning
-
-* Advanced Flutter Animations
-* State Management (Provider & Bloc)
-* Firebase Authentication & Firestore
-* Performance Optimization
-* Clean Architecture
+- 📱 Flutter Mobile App Developer
+- 💙 Building cross-platform apps with Flutter & Dart
+- 🎨 Interested in clean and responsive UI
+- 🚀 Currently learning Flutter Animations
+- 📚 Exploring Firebase and REST API integration
 
 ---
 
-## 💼 Open To
+## 🚀 Currently Learning
 
-* Flutter Developer Opportunities
-* Open Source Contributions
-* Mobile App Collaboration
-* UI Development Projects
+- Flutter Animations
+- State Management
+- Firebase Authentication
+- Firestore
+- Clean Architecture
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+<p>
 
-* Dart
-* Java
-* HTML
-* CSS
-* JavaScript
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,html,css,js,git,github,vscode,androidstudio,figma"/>
 
-### Frameworks
-
-* Flutter
-
-### Backend & Database
-
-* Firebase
-* Firestore
-* Realm Database
-* REST APIs
-
-### Tools
-
-* Git
-* GitHub
-* Android Studio
-* VS Code
-* Figma
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
 ### 🍔 GoldBite Food App
 
-Modern Flutter food ordering application with responsive UI and smooth user experience.
+A Flutter food ordering application with a modern, responsive user interface.
 
 ### 🎨 Flutter Drawing Board
 
-Interactive drawing board built with CustomPainter, GestureDetector, shapes, freehand drawing, color picker, and canvas controls.
+A drawing application built with CustomPainter and GestureDetector featuring freehand drawing, shapes, colors, and canvas controls.
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Stats
 
-* Building beautiful Flutter applications
-* Improving UI animations
-* Learning scalable Flutter architecture
-* Exploring advanced Flutter widgets
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maryam-masood12&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-masood12&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=maryam-masood12&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: linkedin.com/in/maryam-masood-75840b3a9
+- 💼 LinkedIn: www.linkedin.com/in/maryam-masood-75840b3a9
+- 📧 Email: maryammasood211@gmail.com
 
-📧 Email: [maryammasood211@gmail.com](mailto:maryammasood211@gmail.com)
+---
 
-⭐ Thanks for visiting my profile. Happy Coding!
+⭐ Thanks for visiting my profile!

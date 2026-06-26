@@ -86,6 +86,7 @@ A drawing application built with CustomPainter and GestureDetector featuring fre
 
 - 💼 LinkedIn: www.linkedin.com/in/maryam-masood-75840b3a9
 - 📧 Email: maryammasood211@gmail.com
+- 📷 Instagram (Coding): https://www.instagram.com/mary_am15912
 
 ---
 

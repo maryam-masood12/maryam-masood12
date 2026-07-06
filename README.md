@@ -135,7 +135,7 @@ https://github.com/maryam-masood12/flutter-drawing-board.git
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/maryam-masood-75840b3a9
+- 💼 LinkedIn:www.linkedin.com/in/maryam-masood-7c3a9
 - 📧 Email: maryammasood211@gmail.com
 - 📷 Instagram (Coding): https://www.instagram.com/mary_am15912
 

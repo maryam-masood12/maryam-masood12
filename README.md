@@ -4,43 +4,46 @@
 
 <p align="center">
   <a href="https://github.com/maryam-masood12">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Mobile+App+Developer;Building+Beautiful+Mobile+Apps;Learning+Flutter+Animations;Always+Learning+Something+New" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Mobile+App+Developer;Building+Beautiful+Mobile+Apps;Creating+Smooth+Flutter+Animations;Always+Learning+Something+New" />
   </a>
 </p>
 
-<!--  <p align="center">
+<!--
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=maryam-masood12&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p> -->
+</p>
+-->
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-I'm a Flutter developer who enjoys building clean, responsive, and user-friendly mobile applications.
+I'm a Flutter developer passionate about building clean, responsive, and interactive mobile applications.
 
-I love learning by building real projects, exploring new Flutter features, and improving my UI development skills.
+I enjoy turning UI designs into smooth Flutter experiences while improving my problem-solving skills and exploring modern Flutter development.
 
 - 📱 Flutter Mobile App Developer
 - 💙 Building cross-platform apps with Flutter & Dart
-- 🎨 Interested in clean and responsive UI
-- 🚀 Currently learning Flutter Animations
-- 📚 Exploring Firebase and REST API integration
+- ✨ Creating smooth UI and animations
+- 🎨 Passionate about clean and responsive design
+- 🚀 Exploring Firebase, REST APIs, and Clean Architecture
 
 ---
 
-## 🚀 Currently Learning
+# 🚀 Currently Learning
 
-- Flutter Animations
+- Advanced Flutter Animations
 - State Management
 - Firebase Authentication
-- Firestore
+- Cloud Firestore
+- REST API Integration
 - Clean Architecture
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,html,css,js,git,github,vscode,androidstudio,figma"/>
 
@@ -48,19 +51,68 @@ I love learning by building real projects, exploring new Flutter features, and i
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 🍔 GoldBite Food App
+## 🤖 Flutter Robot Animation
 
-A Flutter food ordering application with a modern, responsive user interface.
+Interactive Flutter robot animation featuring:
 
-### 🎨 Flutter Drawing Board
+- Floating robot animation
+- GestureDetector interactions
+- Smooth transitions
+- Custom Animation Controllers
 
-A drawing application built with CustomPainter and GestureDetector featuring freehand drawing, shapes, colors, and canvas controls.
+🔗 Repository:
+https://github.com/maryam-masood12/flutter-robot-animation
 
 ---
 
-## 📊 GitHub Stats
+## ✨ Animated Login Form
+
+A modern Flutter login screen featuring:
+
+- Smooth UI animations
+- Responsive layout
+- Clean design
+- Interactive user experience
+
+🔗 Repository:
+https://github.com/maryam-masood12/login-animation
+
+---
+
+## 🍔 GoldBite Food App
+
+A modern Flutter food ordering application featuring:
+
+- Responsive UI
+- Beautiful food screens
+- Clean layout
+- User-friendly design
+
+🔗 Repository:
+https://github.com/maryam-masood12/goldbite-food-app
+
+---
+
+## 🎨 Flutter Drawing Board
+
+A Flutter drawing application built using CustomPainter and GestureDetector.
+
+Features include:
+
+- Freehand drawing
+- Shapes
+- Color selection
+- Canvas controls
+- Custom painting
+
+🔗 Repository:
+https://github.com/maryam-masood12/flutter-drawing-board
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -72,7 +124,7 @@ A drawing application built with CustomPainter and GestureDetector featuring fre
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -82,12 +134,22 @@ A drawing application built with CustomPainter and GestureDetector featuring fre
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/maryam-masood-75840b3a9
+- 💼 LinkedIn: https://www.linkedin.com/in/maryam-masood-75840b3a9
 - 📧 Email: maryammasood211@gmail.com
 - 📷 Instagram (Coding): https://www.instagram.com/mary_am15912
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 🌱 Goals
+
+- Build high-quality Flutter applications
+- Master Flutter animations
+- Learn scalable app architecture
+- Contribute to open-source Flutter projects
+- Keep learning and improving every day
+
+---
+
+⭐ Thanks for visiting my GitHub profile! If you like my work, don't forget to ⭐ my repositories.

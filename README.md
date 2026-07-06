@@ -63,7 +63,7 @@ Interactive Flutter robot animation featuring:
 - Custom Animation Controllers
 
 🔗 Repository:
-https://github.com/maryam-masood12/flutter-robot-animation
+https://github.com/maryam-masood12/flutter-robot-animation.git
 
 ---
 
@@ -77,8 +77,7 @@ A modern Flutter login screen featuring:
 - Interactive user experience
 
 🔗 Repository:
-https://github.com/maryam-masood12/login-animation
-
+https://github.com/maryam-masood12/flutter-login-form-animation.git
 ---
 
 ## 🍔 GoldBite Food App
@@ -91,7 +90,7 @@ A modern Flutter food ordering application featuring:
 - User-friendly design
 
 🔗 Repository:
-https://github.com/maryam-masood12/goldbite-food-app
+https://github.com/maryam-masood12/goldbite-flutter-app.git
 
 ---
 
@@ -108,7 +107,7 @@ Features include:
 - Custom painting
 
 🔗 Repository:
-https://github.com/maryam-masood12/flutter-drawing-board
+https://github.com/maryam-masood12/flutter-drawing-board.git
 
 ---
 

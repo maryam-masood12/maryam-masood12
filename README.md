@@ -80,19 +80,6 @@ A modern Flutter login screen featuring:
 https://github.com/maryam-masood12/flutter-login-form-animation.git
 ---
 
-## 🍔 GoldBite Food App
-
-A modern Flutter food ordering application featuring:
-
-- Responsive UI
-- Beautiful food screens
-- Clean layout
-- User-friendly design
-
-🔗 Repository:
-https://github.com/maryam-masood12/goldbite-flutter-app.git
-
----
 
 ## 🎨 Flutter Drawing Board
 
@@ -110,6 +97,21 @@ Features include:
 https://github.com/maryam-masood12/flutter-drawing-board.git
 
 ---
+
+## 🍔 GoldBite Food App
+
+A modern Flutter food ordering application featuring:
+
+- Responsive UI
+- Beautiful food screens
+- Clean layout
+- User-friendly design
+
+🔗 Repository:
+https://github.com/maryam-masood12/goldbite-flutter-app.git
+
+---
+
 
 # 📊 GitHub Stats
 

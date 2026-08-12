@@ -98,18 +98,20 @@ https://github.com/maryam-masood12/flutter-drawing-board.git
 
 ---
 
-## 🍔 GoldBite Food App
+🛍️ Neo Mart
 
-A modern Flutter food ordering application featuring:
+A modern Flutter e-commerce application featuring a sleek neon glassmorphic design and a smooth user experience.
 
-- Responsive UI
-- Beautiful food screens
-- Clean layout
-- User-friendly design
+🛍️ Modern e-commerce UI
+📱 Multiple responsive screens
+🎨 Clean & modern design
+🔐 Login & Signup
+🏠 Home & product sections
+🛒 Shopping-related screens
+✨ Smooth user experience
 
 🔗 Repository:
-https://github.com/maryam-masood12/goldbite-flutter-app.git
-
+https://github.com/maryam-masood12/neo-mart-app.git
 ---
 
 

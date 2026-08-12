@@ -32,11 +32,11 @@ I enjoy turning UI designs into smooth Flutter experiences while improving my pr
 
 # 🚀 Currently Learning
 
-Firebase Authentication
-Cloud Firestore
-Database Integration
-State Management
-Clean Architecture
+Firebase Authentication,
+Cloud Firestore,
+Database Integration,
+State Management,
+Clean Architecture,
 
 ---
 
@@ -97,7 +97,7 @@ https://github.com/maryam-masood12/flutter-drawing-board.git
 
 ---
 
-🛍️ Neo Mart
+## 🎨 Neo Mart
 
 A modern Flutter e-commerce application featuring a sleek neon glassmorphic design and a smooth user experience.
 

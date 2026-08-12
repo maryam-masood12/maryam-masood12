@@ -32,12 +32,11 @@ I enjoy turning UI designs into smooth Flutter experiences while improving my pr
 
 # 🚀 Currently Learning
 
-- Advanced Flutter Animations
-- State Management
-- Firebase Authentication
-- Cloud Firestore
-- REST API Integration
-- Clean Architecture
+Firebase Authentication
+Cloud Firestore
+Database Integration
+State Management
+Clean Architecture
 
 ---
 
